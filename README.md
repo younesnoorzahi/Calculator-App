@@ -1,6 +1,5 @@
 <h2>Calculator App</h2>
 <p>create a fully functional calculator using pure HTML, CSS, and JavaScript. Here's the complete code in a single HTML file:</p>
-<p></p>
 
 ```
 | Calculator-App.html
