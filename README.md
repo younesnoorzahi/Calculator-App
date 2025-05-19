@@ -28,7 +28,9 @@
 <li>Distinct colors for different button types (numbers, operators, equals, clear)</li>
 <p>To use this calculator:</p>
 <span>1. Save the code as an HTML file (e.g., `calculator.html`)</span>
+<br>
 <span>2. Open the file in any modern web browser</span>
+<br>
 <span>3. Start calculating!</span>
 
 <p>The calculator handles complex calculations and maintains a calculation history in the smaller display above the main display, so you can see your full equation as you build it.</p>
